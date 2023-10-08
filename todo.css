@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.ps {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#s1 {
+    background-image: url(Nitro_Wallpaper_5000x2813.jpg);
+}
+
+#s2 {
+    background-image: url(planet9_Wallpaper_5000x2813.jpg);
+}
+
+#s3 {
+    background-image: url(ba.jpeg);
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
